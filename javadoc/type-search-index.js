@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"gofoo","l":"Booking"},{"p":"gofoo","l":"GoFoo"},{"p":"gofoo","l":"Person"},{"p":"gofoo","l":"Player"},{"p":"gofoo","l":"Playground"},{"p":"gofoo","l":"PlaygroundOwner"},{"p":"gofoo","l":"Request"},{"p":"gofoo","l":"Structure"},{"p":"gofoo","l":"UserInterface"}];updateSearchResults();
